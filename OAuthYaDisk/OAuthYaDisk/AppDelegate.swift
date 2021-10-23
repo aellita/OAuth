@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  OAuthYaDisk
-//
-//  Created by Аэлита Лукманова on 23.10.2021.
-//
-
 import UIKit
 
 @main
