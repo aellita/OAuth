@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C017FD02725B73100A8E7DE /* DiskFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C017FCF2725B73100A8E7DE /* DiskFile.swift */; };
+		3C017FD22725C1E100A8E7DE /* FileTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C017FD12725C1E100A8E7DE /* FileTableViewCell.swift */; };
 		3C023C2227243ACB0034B395 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C023C2127243ACB0034B395 /* AppDelegate.swift */; };
 		3C023C2427243ACB0034B395 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C023C2327243ACB0034B395 /* SceneDelegate.swift */; };
 		3C023C2627243ACB0034B395 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C023C2527243ACB0034B395 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C017FCF2725B73100A8E7DE /* DiskFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiskFile.swift; sourceTree = "<group>"; };
+		3C017FD12725C1E100A8E7DE /* FileTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileTableViewCell.swift; sourceTree = "<group>"; };
 		3C023C1E27243ACB0034B395 /* OAuthYaDisk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OAuthYaDisk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C023C2127243ACB0034B395 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C023C2327243ACB0034B395 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				3C023C2127243ACB0034B395 /* AppDelegate.swift */,
 				3C023C2327243ACB0034B395 /* SceneDelegate.swift */,
 				3C023C2527243ACB0034B395 /* ViewController.swift */,
+				3C017FD12725C1E100A8E7DE /* FileTableViewCell.swift */,
+				3C017FCF2725B73100A8E7DE /* DiskFile.swift */,
 				3C023C3527244BD70034B395 /* AuthViewController.swift */,
 				3C023C2A27243AD00034B395 /* Assets.xcassets */,
 				3C023C2C27243AD00034B395 /* LaunchScreen.storyboard */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C023C3627244BD70034B395 /* AuthViewController.swift in Sources */,
+				3C017FD22725C1E100A8E7DE /* FileTableViewCell.swift in Sources */,
+				3C017FD02725B73100A8E7DE /* DiskFile.swift in Sources */,
 				3C023C2627243ACB0034B395 /* ViewController.swift in Sources */,
 				3C023C2227243ACB0034B395 /* AppDelegate.swift in Sources */,
 				3C023C2427243ACB0034B395 /* SceneDelegate.swift in Sources */,
